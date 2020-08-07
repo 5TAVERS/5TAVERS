@@ -1,0 +1,8 @@
+title: Shareaholic-api-docs
+description: Shareaholic Public API & SDK documentation
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
